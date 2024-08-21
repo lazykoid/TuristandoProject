@@ -17,7 +17,6 @@
   - Métodos principais:
     - adicionarEstado(Estado estado): Adiciona um estado à lista de estados do país.
     - getEstados(): Retorna a lista de estados.
-    - obterInformacoes(): Retorna informações sobre o país, incluindo o número de estados.
 
 - *Estado.java*
   - Extende Localidade.
@@ -25,7 +24,6 @@
   - Métodos principais:
     - adicionarCidade(Cidade cidade): Adiciona uma cidade à lista de cidades do estado.
     - getCidades(): Retorna a lista de cidades.
-    - obterInformacoes(): Retorna informações sobre o estado.
 
 - *Cidade.java*
   - Extende Localidade.
@@ -33,7 +31,6 @@
   - Métodos principais:
     - adicionarPontoTuristico(PontoTuristico ponto): Adiciona um ponto turístico à lista.
     - getArea(), getCep(), setArea(String area), setCep(String cep): Métodos de acesso e modificação para area e cep.
-    - obterInformacoes(): Retorna informações sobre a cidade.
 
 - *PontoTuristico.java*
   - Representa um ponto turístico com atributos nome, tipo, review e rating.
