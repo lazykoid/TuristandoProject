@@ -1,4 +1,7 @@
 # Turistando - Code Review 
+## Teste IO Errado
+
+[![Video Testando Erros](https://img.youtube.com/vi/E3teUefF-d4/0.jpg)](https://www.youtube.com/watch?v=E3teUefF-d4)
 
 ## Estrutura do Projeto
 
